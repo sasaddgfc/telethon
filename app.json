@@ -1,6 +1,6 @@
 {
-  "name": "Telethon - Arab",
-  "description": "اهلا بك في تليثون العرب",
+  "name": "Salah Hemdan",
+  "description": "اهلا بك في تنصيب صلاح حمدان",
   "logo": "",
   "keywords": ["plugin","modular","productivity"],
   "repository": "https://github.com/help-iq2/telethon",
@@ -37,7 +37,7 @@
     },
     "TZ": {
       "description": "المنطقه الزمنيه من القارة الخاصه بك وعاصمه بلدك",
-      "value": "Asia/Baghdad",
+      "value": "Africa/Egypt",
       "required": false
     },
     "UPSTREAM_REPO": {
